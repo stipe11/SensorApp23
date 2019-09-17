@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1008361825265",
+    "firebase_url": "https://sensorapp-2c719.firebaseio.com",
+    "project_id": "sensorapp-2c719",
+    "storage_bucket": "sensorapp-2c719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008361825265:android:13b80b9f0abf8f1e",
+        "android_client_info": {
+          "package_name": "com.stipe.sensorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008361825265-ko3976s4noh2vigolsjr4arp39do56au.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stipe.sensorapp",
+            "certificate_hash": "80cfed7541b3d3a6a656a919b87060e84e59d37b"
+          }
+        },
+        {
+          "client_id": "1008361825265-0931ufvru3ul023u617adse1dt801n8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNRHmFQtXo4zgZusdHhMSWUEzbBXlKZu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008361825265-0931ufvru3ul023u617adse1dt801n8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
